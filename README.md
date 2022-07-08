@@ -7,11 +7,10 @@ Olá! Sou Thalyson Felipe, estudante de programação e apaixonado por tecnologi
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/thalysonfelipe/count.svg"/></p>
    </p><hr>
    
-</h1>
+</h3>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=thalysonfelipe&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thalysonfelipe&theme=tokyonight)](https://git.io/streak-stats)
-![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 <hr>
 
 <div> 
